@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\fabio\OneDrive\Área de Trabalho\Estudos DeV\Serratec\WorkSpaceAPI\.metadata\.plugins\org.eclipse.jdt.core
+1797190861.index
+876873413.index
