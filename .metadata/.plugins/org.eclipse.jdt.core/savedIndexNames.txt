@@ -45,9 +45,9 @@ INDEX VERSION 1.131+C:\Users\fabio\OneDrive\Área de Trabalho\Estudos DeV\Serrate
 795773716.index
 2493069831.index
 3565174867.index
-1483907926.index
-3805076517.index
 1409812857.index
+3805076517.index
+1483907926.index
 3788089604.index
 2489405537.index
 3782450069.index
