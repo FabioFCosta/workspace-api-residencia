@@ -55,7 +55,7 @@ public class TurmaService {
 
 	private TurmaDTO converterEntidadeParaDTO(Turma turma) {
 		TurmaDTO turmaDTO = new TurmaDTO();
-		if (null != turmaDTO) {
+		if (null != turma) {
 			turmaDTO.setIdTurma(turma.getIdTurma());
 			turmaDTO.setHorarioTurma(turma.getHorarioTurma());
 			turmaDTO.setDuracaoTurma(turma.getDuracaoTurma());
@@ -70,7 +70,7 @@ public class TurmaService {
 
 	private Turma converterDTOParaEntidade(TurmaDTO turmaDTO) {
 		Turma turma = new Turma();
-		if (null != turma) {
+		if (null != turmaDTO) {
 			turma.setIdTurma(turmaDTO.getIdTurma());
 			turma.setHorarioTurma(turmaDTO.getHorarioTurma());
 			turma.setDuracaoTurma(turmaDTO.getDuracaoTurma());
